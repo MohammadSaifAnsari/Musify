@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Musify</string>
+    <string name="songs">Songs</string>
+    <string name="no_song_found">NO SONG FOUND</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
